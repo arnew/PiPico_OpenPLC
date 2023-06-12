@@ -4202,7 +4202,7 @@
     (property "Reference" "JP1" (at 107.95 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Jumper_2_Open" (at 107.95 180.34 0)
+    (property "Value" "GND <-> GND_{Ana}" (at 107.95 180.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm" (at 107.95 182.88 0)
